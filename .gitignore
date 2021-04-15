@@ -1,4 +1,5 @@
 # User defined files
+processed_data/
 raw_data/
 .DS_Store
 # Byte-compiled / optimized / DLL files
