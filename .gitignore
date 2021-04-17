@@ -2,6 +2,7 @@
 raw_data/
 VQA/
 .DS_Store
+glove.6B.300d.txt
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
